@@ -30,7 +30,7 @@
 
 > **Building AI systems that bridge humans and machines 🚀**
 
-<details>
+<details open>
 <summary><b>👤 General Information</b></summary>
 <br />
 
@@ -39,7 +39,7 @@
 *   **Location:** India 🇮🇳
 </details>
 
-<details>
+<details open>
 <summary><b>💻 Tech & Roles</b></summary>
 <br />
 
@@ -48,12 +48,16 @@
 *   **Primary Stacks:** C++, Python (FastAPI, PyTorch), JavaScript (React)
 </details>
 
-<details>
+<details open>
 <summary><b>⚡ Current Focus</b></summary>
 <br />
 
-*   Developing real-time gesture-recognition systems.
-*   Designing optimized backend pipelines for high-throughput AI models.
+<!-- TODO: swap these for the specific model/technique/project you're on right now —
+     "real-time gesture recognition" is a great headline, but naming the exact
+     architecture (e.g. MediaPipe + LSTM temporal classifier) makes it read as real,
+     ongoing work instead of a template line. -->
+*   Developing real-time gesture-recognition systems using MediaPipe landmark tracking and temporal classification.
+*   Designing optimized backend pipelines for high-throughput AI models with FastAPI + async inference queues.
 *   Open for collaborative research, hackathons, and innovative dev projects!
 </details>
 
@@ -106,12 +110,14 @@ _Thanks for stopping by! Let's build something amazing together._
 
 <div align="center">
 
-| 🏆 Project | 🔍 Description | 🛠️ Stack |
-|:---|:---|:---|
-| [🛸 **Hand-Gesture Drone Control**](https://github.com/Atharv56-coder/Hand-Gesture-Controlled-Drone-Software_AIMS) | Real-time drone navigation via deep learning-powered hand gesture recognition — no controller needed. | `Python` `OpenCV` `Mediapipe` `Deep Learning` |
-| [📄 **ResuRank AI**](https://github.com/Atharv56-coder/Resume-Screener) | Hybrid-engine AI resume screener: ATS grading, role gap analysis & career path mapping powered by Llama 3.3 70B with a local fallback. | `FastAPI` `React` `TypeScript` `Groq` |
-| [💻 **Gesture-Controlled OS Commands**](https://github.com/Atharv56-coder/Gesture-Controlled-System-Commands-Software-AIMS) | Control your PC's volume, brightness, and apps with hand gestures tracked through your webcam. | `Python` `TypeScript` `OpenCV` `Mediapipe` |
-| [⚖️ **ContraMesh**](https://github.com/Atharv56-coder/ContraMesh) | Legal contract and lease risk analyzer that uses NLP to surface compliance risks and critical clauses in complex legal text. | `Python` `FastAPI` `NLP` `PDF Parsing` |
+| 🏆 Project | 🔍 Description | 🛠️ Stack | 🔗 Links |
+|:---|:---|:---|:---|
+| [🛸 **Hand-Gesture Drone Control**](https://github.com/Atharv56-coder/Hand-Gesture-Controlled-Drone-Software_AIMS) | Real-time drone navigation via deep learning-powered hand gesture recognition — no controller needed. <!-- TODO: add a number, e.g. "recognizes N gestures at X fps" --> | `Python` `OpenCV` `Mediapipe` `Deep Learning` | [Repo](https://github.com/Atharv56-coder/Hand-Gesture-Controlled-Drone-Software_AIMS) |
+| [📄 **ResuRank AI**](https://github.com/Atharv56-coder/Resume-Screener) | Hybrid-engine AI resume screener: ATS grading, role gap analysis & career path mapping powered by Llama 3.3 70B with a local fallback. | `FastAPI` `React` `TypeScript` `Groq` | [Repo](https://github.com/Atharv56-coder/Resume-Screener) · [Demo](#) |
+| [💻 **Gesture-Controlled OS Commands**](https://github.com/Atharv56-coder/Gesture-Controlled-System-Commands-Software-AIMS) | Control your PC's volume, brightness, and apps with hand gestures tracked through your webcam. | `Python` `TypeScript` `OpenCV` `Mediapipe` | [Repo](https://github.com/Atharv56-coder/Gesture-Controlled-System-Commands-Software-AIMS) |
+| [⚖️ **ContraMesh**](https://github.com/Atharv56-coder/ContraMesh) | Legal contract and lease risk analyzer that uses NLP to surface compliance risks and critical clauses in complex legal text. | `Python` `FastAPI` `NLP` `PDF Parsing` | [Repo](https://github.com/Atharv56-coder/ContraMesh) · [Demo](#) |
+
+<!-- TODO: replace the "Demo" (#) links with real deployed URLs (Vercel/Render/HF Spaces), or delete that cell if a project has no live demo -->
 
 </div>
 
@@ -121,18 +127,16 @@ _Thanks for stopping by! Let's build something amazing together._
 
 <div align="center">
 
-<!--
-<img src="https://github-readme-stats.vercel.app/api?username=Atharv56-coder&show_icons=true&theme=tokyonight&count_private=true&border_radius=12&hide_border=false&rank_icon=github" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv56-coder&layout=compact&theme=tokyonight&border_radius=12" width="49%" />
--->
+<img src="https://github-readme-stats.vercel.app/api?username=Atharv56-coder&show_icons=true&theme=tokyonight&count_private=true&border_radius=12&hide_border=true&rank_icon=github" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv56-coder&layout=compact&theme=tokyonight&border_radius=12&hide_border=true" width="42%" />
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharv56-coder&theme=tokyonight&border_radius=12" width="60%" />
 
 <br/><br/>
 
-<!-- GitHub Trophies -->
+<!-- GitHub Trophies — uncomment once you have a few more repos/stars/followers, they look sparse at 0 -->
 <!--
 <img src="https://github-profile-trophy.vercel.app/?username=Atharv56-coder&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="100%" />
 -->
@@ -141,6 +145,12 @@ _Thanks for stopping by! Let's build something amazing together._
 
 ---
 
+<!--
+Snake contribution graph: you already have a .github/workflows folder, which
+strongly suggests a snake-generation Action is set up but not wired to render here.
+If the action is running (check the Actions tab), just uncomment this block —
+the output branch should already exist.
+-->
 <!--
 ## 🐍 Contribution Graph
 
