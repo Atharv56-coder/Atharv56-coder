@@ -26,17 +26,29 @@
 
 ---
 
+```markdown
 ## 🧠 About Me
 
-```text
-      ___          👤 User: atharvlamba
-     /   \         🎓 Org: Delhi Technological University (DTU)
-    /  _  \        💻 Role: AI Engineer & Full-Stack Dev
-   /  / \  \       👁️ Focus: Computer Vision & Deep Learning
-  /  /   \  \      ⚡ Mission: Bridging humans & machines with AI
- /  /     \  \     🛠️ Tools: Python, C++, FastAPI, PyTorch, React
- \_/       \_/     🎮 Hobby: Climbing ranks & economic strategies
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <h3>👋 Hello World!</h3>
+      <p>I am <b>Atharv Lamba</b>, an AI Engineer and Full-Stack Developer pursuing my B.Tech at <b>Delhi Technological University (DTU)</b>.</p>
+      <p>My passion lies in designing high-performance <b>Computer Vision</b> systems and building robust, scalable backend architectures to power them.</p>
+      <p>🚀 <i>"I focus on creating seamless intelligent systems that bridge the gap between humans and machines."</i></p>
+    </td>
+    <td width="45%" valign="center" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Atharv56-coder&show_icons=true&theme=tokyonight&locale=en" alt="Atharv's Stats" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <b>Thanks for stopping by! Let's build something amazing together.</b>
+</p>
 ```
+
+---
 
 ## 🛠️ Tech Stack
 
