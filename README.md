@@ -1,5 +1,13 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20There!!%22);printf(%22This%2C%20is%20Tarun%2C%20Jain!%22);cout<<%22Programmer%2C%20from%20India!!%22&center=true&size=27&width=550">
+  </a>
+</h1>
+
+---
+
 # 👋 Hi there, I'm Atharv Lamba!
-### AI Engineer & Full-Stack Developer | DTU Student | Member of AIMS-DTU 🚀
+### AI Engineer & Full-Stack Developer | DTU Student 🚀
 
 I'm a passionate developer focused on building intelligent systems that bridge the gap between human interaction, machine learning, and modern web applications. Currently studying at **Delhi Technological University (DTU)** .
 
