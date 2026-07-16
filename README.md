@@ -1,6 +1,6 @@
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=%3E%20Hello%20There%3B%20%3E%20USER%3A%20Atharv%20Lamba%3B%20%3E%20ROLE%3A%20AI%20Engineer%20%26%20Full%20Stack%20Developer%20from%20India%3B%20%3E%20STATUS%3A%20Currently%20pursuing%20BTech%20from%20DTU%3B&center=false&size=19&width=600&color=00E5FF&font=Fira+Code">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20There%20!%3B%20Atharv%20Lamba%3B%20AI%20Engineer%20%7C%20Full%20Stack%20Developer%20from%20India%3B%20Currently%20pursuing%20BTech%20from%20DTU%3B&center=false&size=21&width=550&color=FFDF00">
   </a>
 </p>
 
