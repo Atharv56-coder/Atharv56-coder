@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Atharv Lamba!
 ### AI Engineer & Full-Stack Developer | DTU Student | Member of AIMS-DTU 🚀
 
-I'm a passionate developer focused on building intelligent systems that bridge the gap between human interaction, machine learning, and modern web applications. Currently studying at **Delhi Technological University (DTU)** and actively contributing to the **AIMS-DTU** (Artificial Intelligence and Medical Systems) society.
+I'm a passionate developer focused on building intelligent systems that bridge the gap between human interaction, machine learning, and modern web applications. Currently studying at **Delhi Technological University (DTU)** .
 
 ---
 
@@ -56,4 +56,4 @@ I'm a passionate developer focused on building intelligent systems that bridge t
 ## 🤝 Connect with Me
 * 📧 **Email:** atharvlamba56@gmail.com
 * 🎓 **University:** Delhi Technological University (DTU)
-* 💼 **LinkedIn:** [Add your LinkedIn profile link here]
+* 💼 **LinkedIn:** https://www.linkedin.com/in/atharv-lamba-8818032b9/
