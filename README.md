@@ -26,7 +26,6 @@
 
 ---
 
-```markdown
 ## 🧠 About Me
 
 <table>
@@ -38,7 +37,7 @@
       <p>🚀 <i>"I focus on creating seamless intelligent systems that bridge the gap between humans and machines."</i></p>
     </td>
     <td width="45%" valign="center" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Atharv56-coder&show_icons=true&theme=tokyonight&locale=en" alt="Atharv's Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&locale=en" alt="Atharv's Stats" width="100%" />
     </td>
   </tr>
 </table>
@@ -46,7 +45,6 @@
 <p align="center">
   <b>Thanks for stopping by! Let's build something amazing together.</b>
 </p>
-```
 
 ---
 
