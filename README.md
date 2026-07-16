@@ -28,18 +28,38 @@
 
 ## 🧠 About Me
 
-> **"Building AI systems that bridge the gap between humans and machines."** 🚀
+> **Building AI systems that bridge humans and machines 🚀**
 
-| | |
-| :--- | :--- |
-| 👤 **Name** | Atharv Lamba |
-| 🎓 **University** | Delhi Technological University (DTU) |
-| 💻 **Role** | AI Engineer & Full-Stack Developer |
-| 👁️ **Focus** | Computer Vision, Deep Learning, & API Design |
+<details>
+<summary><b>👤 General Information</b></summary>
+<br />
+
+*   **Name:** Atharv Lamba
+*   **University:** Delhi Technological University (DTU)
+*   **Location:** India 🇮🇳
+</details>
+
+<details>
+<summary><b>💻 Tech & Roles</b></summary>
+<br />
+
+*   **Core Roles:** AI Engineer & Full-Stack Developer
+*   **Specialties:** Computer Vision, Neural Networks, and Backend API Architecture
+*   **Primary Stacks:** C++, Python (FastAPI, PyTorch), JavaScript (React)
+</details>
+
+<details>
+<summary><b>⚡ Current Focus</b></summary>
+<br />
+
+*   Developing real-time gesture-recognition systems.
+*   Designing optimized backend pipelines for high-throughput AI models.
+*   Open for collaborative research, hackathons, and innovative dev projects!
+</details>
 
 <br />
 
-⚡ *Thanks for stopping by! Let's build something amazing together.*
+_Thanks for stopping by! Let's build something amazing together._
 
 ---
 
