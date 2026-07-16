@@ -1,8 +1,8 @@
-<h1 align="center">
+<p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer+%26+Full+Stack+Developer;Information+Technology+at+DTU;Building+intelligent+systems...&center=false&size=20&width=450&color=39FF14">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22AI%20Engineer%22);print(%22Full%20Stack%20Developer%22);std::cout%20%3C%3C%20%22DTU%20%2726%22;&center=false&size=20&width=400&color=39FF14&v=2">
   </a>
-</h1>
+</p>
 
 ---
 
