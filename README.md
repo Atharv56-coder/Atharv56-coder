@@ -6,8 +6,8 @@
 
 ---
 
-# 👋 Hi there, I'm Atharv Lamba!
-### AI Engineer & Full-Stack Developer | DTU Student 🚀
+# 💬 About Me
+### AI Engineer & Full-Stack Developer From India 🚀
 
 I'm a passionate developer focused on building intelligent systems that bridge the gap between human interaction, machine learning, and modern web applications. Currently studying at **Delhi Technological University (DTU)** .
 
