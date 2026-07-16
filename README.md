@@ -28,14 +28,12 @@
 
 ## 🧠 About Me
 
-<h1>
-  NAME : Atharv Lamba
-  UNIVERSITY : Delhi Technological University (DTU)
-  ROLE : AI Engineer, Full-Stack Developer, Computer Vision Enthusiast
-  CURRENTLY : Building AI systems that bridge humans and machines 🚀
-  
-  Thanks for stopping by! Let's build something amazing together.
-</h1>
+<p>NAME : Atharv Lamba</p>
+<p>UNIVERSITY : Delhi Technological University (DTU)</p>
+<p>ROLE : AI Engineer, Full-Stack Developer, Computer Vision Enthusiast</p>
+<p>CURRENTLY : Building AI systems that bridge humans and machines 🚀</p>
+
+<p>Thanks for stopping by! Let's build something amazing together.</p>
 
 ---
 
