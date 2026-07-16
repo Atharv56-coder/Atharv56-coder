@@ -1,6 +1,6 @@
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22AI%20Engineer%22);print(%22Full%20Stack%20Developer%22);std::cout%20%3C%3C%20%22DTU%20%2726%22;&center=false&size=20&width=400&color=39FF14&v=2">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=%3E%20Hello%20There%3B%20%3E%20USER%3A%20Atharv%20Lamba%3B%20%3E%20ROLE%3A%20AI%20Engineer%20%26%20Full%20Stack%20Developer%20from%20India%3B%20%3E%20STATUS%3A%20Currently%20pursuing%20BTech%20from%20DTU%3B&center=false&size=19&width=600&color=00E5FF&font=Fira+Code">
   </a>
 </p>
 
