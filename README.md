@@ -28,23 +28,38 @@
 
 ## 🧠 About Me
 
-<table>
-  <tr>
-    <td width="55%" valign="top">
-      <h3>👋 Hello World!</h3>
-      <p>I am <b>Atharv Lamba</b>, an AI Engineer and Full-Stack Developer pursuing my B.Tech at <b>Delhi Technological University (DTU)</b>.</p>
-      <p>My passion lies in designing high-performance <b>Computer Vision</b> systems and building robust, scalable backend architectures to power them.</p>
-      <p>🚀 <i>"I focus on creating seamless intelligent systems that bridge the gap between humans and machines."</i></p>
-    </td>
-    <td width="45%" valign="center" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&locale=en" alt="Atharv's Stats" width="100%" />
-    </td>
-  </tr>
-</table>
+> **Building AI systems that bridge humans and machines 🚀**
 
-<p align="center">
-  <b>Thanks for stopping by! Let's build something amazing together.</b>
-</p>
+<details>
+<summary><b>👤 General Information</b></summary>
+<br />
+
+*   **Name:** Atharv Lamba
+*   **University:** Delhi Technological University (DTU)
+*   **Location:** India 🇮🇳
+</details>
+
+<details>
+<summary><b>💻 Tech & Roles</b></summary>
+<br />
+
+*   **Core Roles:** AI Engineer & Full-Stack Developer
+*   **Specialties:** Computer Vision, Neural Networks, and Backend API Architecture
+*   **Primary Stacks:** C++, Python (FastAPI, PyTorch), JavaScript (React)
+</details>
+
+<details>
+<summary><b>⚡ Current Focus</b></summary>
+<br />
+
+*   Developing real-time gesture-recognition systems.
+*   Designing optimized backend pipelines for high-throughput AI models.
+*   Open for collaborative research, hackathons, and innovative dev projects!
+</details>
+
+<br />
+
+_Thanks for stopping by! Let's build something amazing together._
 
 ---
 
