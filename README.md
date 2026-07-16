@@ -6,6 +6,12 @@
 
 ---
 
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer+%26+Full+Stack+Developer;Information+Technology+at+DTU;Building+intelligent+systems...&center=false&size=20&width=450&color=39FF14">
+  </a>
+</p>
+
 # 👋 Hi there, I'm Atharv Lamba!
 ### AI Engineer & Full-Stack Developer | DTU Student 🚀
 
