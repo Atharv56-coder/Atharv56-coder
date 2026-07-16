@@ -1,17 +1,10 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20I'm%20Atharv%20Lamba!%22);cout%20%3C%3C%20%22AI%20Engineer%20%26%20Full%20Stack%20Dev%20from%20India%22%3B;print(%22Currently%20studying%20at%20DTU!%22)&center=true&size=25&width=650">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer+%26+Full+Stack+Developer;Information+Technology+at+DTU;Building+intelligent+systems...&center=false&size=20&width=450&color=39FF14">
   </a>
 </h1>
 
 ---
-
-<p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer+%26+Full+Stack+Developer;Information+Technology+at+DTU;Building+intelligent+systems...&center=false&size=20&width=450&color=39FF14">
-  </a>
-</p>
-
 
 # 👋 Hi there, I'm Atharv Lamba!
 ### AI Engineer & Full-Stack Developer | DTU Student 🚀
