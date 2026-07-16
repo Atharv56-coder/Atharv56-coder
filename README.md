@@ -121,8 +121,10 @@ _Thanks for stopping by! Let's build something amazing together._
 
 <div align="center">
 
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=Atharv56-coder&show_icons=true&theme=tokyonight&count_private=true&border_radius=12&hide_border=false&rank_icon=github" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv56-coder&layout=compact&theme=tokyonight&border_radius=12" width="49%" />
+-->
 
 <br/>
 
@@ -131,7 +133,9 @@ _Thanks for stopping by! Let's build something amazing together._
 <br/><br/>
 
 <!-- GitHub Trophies -->
+<!--
 <img src="https://github-profile-trophy.vercel.app/?username=Atharv56-coder&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="100%" />
+-->
 
 </div>
 
