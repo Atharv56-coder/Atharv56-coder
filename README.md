@@ -113,9 +113,9 @@ _Thanks for stopping by! Let's build something amazing together._
 | 🏆 Project | 🔍 Description | 🛠️ Stack | 🔗 Links |
 |:---|:---|:---|:---|
 | [🛸 **Hand-Gesture Drone Control**](https://github.com/Atharv56-coder/Hand-Gesture-Controlled-Drone-Software_AIMS) | Real-time drone navigation via deep learning-powered hand gesture recognition — no controller needed. <!-- TODO: add a number, e.g. "recognizes N gestures at X fps" --> | `Python` `OpenCV` `Mediapipe` `Deep Learning` | [Repo](https://github.com/Atharv56-coder/Hand-Gesture-Controlled-Drone-Software_AIMS) |
-| [📄 **ResuRank AI**](https://github.com/Atharv56-coder/Resume-Screener) | Hybrid-engine AI resume screener: ATS grading, role gap analysis & career path mapping powered by Llama 3.3 70B with a local fallback. | `FastAPI` `React` `TypeScript` `Groq` | [Repo](https://github.com/Atharv56-coder/Resume-Screener) ·<!-- [Demo](#) -->|
+| [📄 **ResuRank AI**](https://github.com/Atharv56-coder/Resume-Screener) | Hybrid-engine AI resume screener: ATS grading, role gap analysis & career path mapping powered by Llama 3.3 70B with a local fallback. | `FastAPI` `React` `TypeScript` `Groq` | [Repo](https://github.com/Atharv56-coder/Resume-Screener) <!-- · [Demo](#) -->|
 | [💻 **Gesture-Controlled OS Commands**](https://github.com/Atharv56-coder/Gesture-Controlled-System-Commands-Software-AIMS) | Control your PC's volume, brightness, and apps with hand gestures tracked through your webcam. | `Python` `TypeScript` `OpenCV` `Mediapipe` | [Repo](https://github.com/Atharv56-coder/Gesture-Controlled-System-Commands-Software-AIMS) |
-| [⚖️ **ContraMesh**](https://github.com/Atharv56-coder/ContraMesh) | Legal contract and lease risk analyzer that uses NLP to surface compliance risks and critical clauses in complex legal text. | `Python` `FastAPI` `NLP` `PDF Parsing` | [Repo](https://github.com/Atharv56-coder/ContraMesh) · <!--[Demo](#)--> |
+| [⚖️ **ContraMesh**](https://github.com/Atharv56-coder/ContraMesh) | Legal contract and lease risk analyzer that uses NLP to surface compliance risks and critical clauses in complex legal text. | `Python` `FastAPI` `NLP` `PDF Parsing` | [Repo](https://github.com/Atharv56-coder/ContraMesh) <!-- · [Demo](#)--> |
 
 <!-- TODO: replace the "Demo" (#) links with real deployed URLs (Vercel/Render/HF Spaces), or delete that cell if a project has no live demo -->
 
