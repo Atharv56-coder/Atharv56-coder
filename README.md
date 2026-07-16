@@ -12,10 +12,6 @@
   </a>
 </p>
 
-# 💻 execute: atharv_lamba --profile
-
-```bash
-$ neofetch --developer
 
 # 👋 Hi there, I'm Atharv Lamba!
 ### AI Engineer & Full-Stack Developer | DTU Student 🚀
