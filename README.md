@@ -28,19 +28,12 @@
 
 ## 🧠 About Me
 
-```python
-class AtharvLamba:
-    name       = "Atharv Lamba"
-    university = "Delhi Technological University (DTU)"
-    society    = "AIMS-DTU  (Artificial Intelligence & Medical Systems)"
-    role       = ["AI Engineer", "Full-Stack Developer", "Computer Vision Enthusiast"]
-    interests  = ["Deep Learning", "Human-Computer Interaction",
-                  "LLM-powered Apps", "Drone Autonomy"]
-    currently  = "Building AI systems that bridge humans and machines 🚀"
+NAME : Atharv Lamba
+UNIVERSITY : Delhi Technological University (DTU)
+ROLE : AI Engineer, Full-Stack Developer, Computer Vision Enthusiast
+CURRENTLY : Building AI systems that bridge humans and machines 🚀
 
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing together.")
-```
+Thanks for stopping by! Let's build something amazing together.
 
 ---
 
