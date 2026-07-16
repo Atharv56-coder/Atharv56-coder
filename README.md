@@ -127,8 +127,10 @@ _Thanks for stopping by! Let's build something amazing together._
 
 <div align="center">
 
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=Atharv56-coder&show_icons=true&theme=tokyonight&count_private=true&border_radius=12&hide_border=true&rank_icon=github" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv56-coder&layout=compact&theme=tokyonight&border_radius=12&hide_border=true" width="42%" />
+-->
 
 <br/><br/>
 
