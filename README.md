@@ -137,6 +137,7 @@ _Thanks for stopping by! Let's build something amazing together._
 
 ---
 
+<!--
 ## 🐍 Contribution Graph
 
 <div align="center">
@@ -146,6 +147,7 @@ _Thanks for stopping by! Let's build something amazing together._
   <img alt="github-snake" src="https://raw.githubusercontent.com/Atharv56-coder/Atharv56-coder/output/github-contribution-grid-snake.svg" />
 </picture>
 </div>
+-->
 
 ---
 
